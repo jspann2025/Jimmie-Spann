@@ -15,7 +15,7 @@ This GitHub portfolio showcases my hands-on cybersecurity labs, real-world harde
 ## 🧪 Hands-On Labs & Projects
 | Project | Description | Skills | Link |
 |--------|-------------|--------|------|
-| TryHackMe Red Team Labs | Enumeration, exploitation, privilege escalation | Nmap, Metasploit, Linux | [View](./01-tryhackme-labs/room-name-writeup.md) |
+| TryHackMe Red Team Labs | Enumeration, exploitation, privilege escalation | Nmap, Metasploit, Linux | <a href="https://github.com/jspann2025/Let-s-Defend--SOC-Alert-Analysis"> |
 | Let’s Defend SOC Lab | Blue team simulation with alert triage | Splunk, IOC analysis | [View](./Let-s-Defend--SOC-Alert-Analysis.md) |
 | Secure Printer Configuration | Hardened MFPs against unauthorized access | Device security, documentation | [View](./03-secure-printer-project/project-summary.md) |
 
