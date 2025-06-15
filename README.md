@@ -1,7 +1,13 @@
 # Jimmie's Cybersecurity Portfolio
 
-Welcome! I'm Jimmie, a cybersecurity professional with a B.S. in Cybersecurity and 12 years of IT and support experience.
-This GitHub portfolio showcases my hands-on cybersecurity labs, real-world hardening experience, and security projects.
+# 👋 Hi, I'm Jimmie Spann
+
+🎓 **Bachelor’s in Cybersecurity & Information Assurance**  
+🛡️ **CompTIA Certified** – A+, Network+, Security+, Project+, CySA+, Pentest+  
+🔐 **SSCP | ITIL v4 | SOC Analyst | Aspiring Blue/Red Teamer**
+
+Welcome to my GitHub portfolio! This space showcases my cybersecurity labs, SOC investigations, and technical walkthroughs from platforms like **TryHackMe**, **Let's Defend**, and more.
+
 
 ## 🔐 Certifications
 - CompTIA: <img src="https://img.shields.io/badge/A%2B-Certified-red?style=for-the-badge&logo=comptia" /> , <img src="https://img.shields.io/badge/Network%2B-Certified-red?style=for-the-badge&logo=comptia" /> , <img src="https://img.shields.io/badge/Security%2B-Certified-red?style=for-the-badge&logo=comptia" /> , <img src="https://img.shields.io/badge/Project%2B-Certified-red?style=for-the-badge&logo=comptia" /> , <img src="https://img.shields.io/badge/CySA%2B-Certified-red?style=for-the-badge&logo=comptia" /> , <img src="https://img.shields.io/badge/PenTest%2B-Certified-red?style=for-the-badge&logo=comptia" />  
