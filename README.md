@@ -8,7 +8,7 @@ This GitHub portfolio showcases my hands-on cybersecurity labs, real-world harde
 
 - ISC2: <img src="https://img.shields.io/badge/SSCP-Certified-blue?style=for-the-badge&logo=ISC2" />
 
-- ITIL: [e-cert (1).pdf](https://github.com/user-attachments/files/20746724/e-cert.1.pdf)
+- ITIL: <img src="https://img.shields.io/badge/ITIL%20Foundation-Certified-purple?style=for-the-badge&logo=itsm" />
 
 
 
