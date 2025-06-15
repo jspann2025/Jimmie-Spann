@@ -6,7 +6,7 @@ This GitHub portfolio showcases my hands-on cybersecurity labs, real-world harde
 ## 🔐 Certifications
 - CompTIA: <img src="https://img.shields.io/badge/A%2B-Certified-red?style=for-the-badge&logo=comptia" /> , <img src="https://img.shields.io/badge/Network%2B-Certified-red?style=for-the-badge&logo=comptia" /> , <img src="https://img.shields.io/badge/Security%2B-Certified-red?style=for-the-badge&logo=comptia" /> , <img src="https://img.shields.io/badge/Project%2B-Certified-red?style=for-the-badge&logo=comptia" /> , <img src="https://img.shields.io/badge/CySA%2B-Certified-red?style=for-the-badge&logo=comptia" /> , <img src="https://img.shields.io/badge/PenTest%2B-Certified-red?style=for-the-badge&logo=comptia" />  
 
-- ISC2: ![image](https://github.com/user-attachments/assets/8f6d84ef-9a30-4b01-aabd-039a28d40a79)
+- ISC2: <img src="https://img.shields.io/badge/SSCP-Certified-blue?style=for-the-badge&logo=ISC2" />
 
 - ITIL: [e-cert (1).pdf](https://github.com/user-attachments/files/20746724/e-cert.1.pdf)
 
