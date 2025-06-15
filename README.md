@@ -4,7 +4,7 @@ Welcome! I'm Jimmie, a cybersecurity professional with a B.S. in Cybersecurity a
 This GitHub portfolio showcases my hands-on cybersecurity labs, real-world hardening experience, and security projects.
 
 ## 🔐 Certifications
-- CompTIA:[A+-pdf.pdf](https://github.com/user-attachments/files/20746581/A%2B-pdf.pdf),[Network+-jpg](https://github.com/user-attachments/assets/1ba3a8ac-888a-4fa0-9a18-c25e3f7b801e), Security+, Project+, CYSA+, Pentest+
+- CompTIA:[A+-pdf.pdf](https://github.com/user-attachments/files/20746581/A%2B-pdf.pdf), , Security+, Project+, CYSA+, Pentest+
 - ISC2: SSCP
 - ITIL v4 Foundations
 
