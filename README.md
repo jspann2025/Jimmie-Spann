@@ -4,7 +4,13 @@ Welcome! I'm Jimmie, a cybersecurity professional with a B.S. in Cybersecurity a
 This GitHub portfolio showcases my hands-on cybersecurity labs, real-world hardening experience, and security projects.
 
 ## 🔐 Certifications
-- CompTIA:![A+-jpg](https://github.com/user-attachments/assets/0ccdc98a-9477-4acc-8c6e-ff82760a54a1) , ![Network+-jpg](https://github.com/user-attachments/assets/fb4d35d4-ee9d-47c4-92e0-48ea6b64d0d5) , ![Security+-jpg](https://github.com/user-attachments/assets/74f4613e-de59-4bf2-8ac4-0c20a2efad50) , ![Project+-jpg](https://github.com/user-attachments/assets/fb65f170-39f1-4967-a16f-8e46c05d691f) , ![CySA+-jpg](https://github.com/user-attachments/assets/889cea44-9ab8-4529-912d-1372db6d3668) , ![PenTest+-jpg](https://github.com/user-attachments/assets/4edd7a64-bb68-4545-b678-135848013065)
+- CompTIA: <img src="https://img.shields.io/badge/A%2B-Certified-red?style=for-the-badge&logo=comptia" />  
+![CompTIA Network+](https://img.shields.io/badge/Network%2B-Certified-red?style=for-the-badge&logo=comptia)  
+![CompTIA Security+](https://img.shields.io/badge/Security%2B-Certified-red?style=for-the-badge&logo=comptia)  
+![CompTIA Project+](https://img.shields.io/badge/Project%2B-Certified-red?style=for-the-badge&logo=comptia)  
+![CompTIA CySA+](https://img.shields.io/badge/CySA%2B-Certified-red?style=for-the-badge&logo=comptia)  
+![CompTIA PenTest+](https://img.shields.io/badge/PenTest%2B-Certified-red?style=for-the-badge&logo=comptia)  
+
 - ISC2: ![image](https://github.com/user-attachments/assets/8f6d84ef-9a30-4b01-aabd-039a28d40a79)
 
 - ITIL: [e-cert (1).pdf](https://github.com/user-attachments/files/20746724/e-cert.1.pdf)
