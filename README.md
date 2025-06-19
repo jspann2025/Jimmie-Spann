@@ -24,6 +24,6 @@ Welcome to my GitHub portfolio! This space showcases my cybersecurity labs, SOC 
 | TryHackMe Walk-through Labs | Enumeration, exploitation, privilege escalation | Nmap, Metasploit, Linux | <a href="https://github.com/jspann2025/Tryhackme-Labs/tree/main">View</a> |
 | Let’s Defend SOC Lab | Blue team simulation with alert triage | Splunk, IOC analysis | <a href="https://github.com/jspann2025/Let-s-Defend--SOC-Alert-Analysis/tree/main">View</a> |
 | Secure Printer Configuration | Hardened MFPs against unauthorized access | Device security, documentation | <a href="https://github.com/jspann2025/Secure-Copier-Configuration-Project/tree/main">View</a>|
-| Windows Firewall Testing Lab with Kali Linux|Test port accessibility from Kali to Windows, Enable/disable firewall rules and observe effects, Learn how Nmap results change with firewall status| Nmap, Firewall Rules, Defensive Hardening Techniques |<a href="https://github.com/jspann2025/Secure-Copier-Configuration-Project/tree/main">View</a>|
+| Windows Firewall Testing Lab with Kali Linux|Test port accessibility from Kali to Windows, Enable/disable firewall rules and observe effects, Learn how Nmap results change with firewall status| Nmap, Firewall Rules, Defensive Hardening Techniques |<a href="https://github.com/jspann2025/Windows-Firewall-Testing-Lab-with-Kali-Linux/tree/main">View</a>|
 ## 📄 Resume
 [Download my resume](./resume/Cybersecurity_Resume.pdf)
