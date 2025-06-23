@@ -21,8 +21,6 @@ Welcome to my GitHub portfolio! This space showcases my cybersecurity labs, SOC 
 ## 🧪 Hands-On Labs & Projects
 | Project | Description | Skills | Link |
 |--------|-------------|--------|------|
-| Let’s Defend SOC Lab | Blue team simulation with alert triage | Splunk, IOC analysis | <a href="https://github.com/jspann2025/Let-s-Defend--SOC-Alert-Analysis/tree/main">View</a> 
-| Secure Printer Configuration | Hardened MFPs against unauthorized access | Device security, documentation | <a href="https://github.com/jspann2025/Secure-Copier-Configuration-Project/tree/main">View</a>|
 | Windows Firewall Testing Lab with Kali Linux|Test port accessibility from Kali to Windows, Enable/disable firewall rules and observe effects, Learn how Nmap results change with firewall status| Nmap, Firewall Rules, Defensive Hardening Techniques |<a href="https://github.com/jspann2025/Windows-Firewall-Testing-Lab-with-Kali-Linux/tree/main">View</a>|
 | RDP Brute-Force Attack Lab with Hydra| This lab demonstrates a brute-force attack against Remote Desktop Protocol (RDP) using **Hydra** within an isolated and controlled test environment built on **UTM** running on a **MacBook Air M1**. The goal is to test password strength and understand the importance of hardening RDP access.| 🔧 Virtual network setup using UTM and Emulated VLAN, Offensive tooling: THC Hydra, Service enumeration and protocol targeting (RDP/3389), Documentation and ethical hacking methodology,Windows privilege management and configuration| <a href="https://github.com/jspann2025/RDP-Brute-Force-Attack-Lab-with-Hydra/tree/main">View</a> 
 # 📄 Resume
